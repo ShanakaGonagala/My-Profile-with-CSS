@@ -106,7 +106,7 @@ hr{
 
 .name{
     position: absolute;
-    padding-top: 450px;
+    top: 450px;
     font-size: 5.8rem;
     font-family: 'Explora';
     left: 0;
@@ -115,7 +115,7 @@ hr{
 
 .bio{
     position: absolute;
-    padding-top: 550px;
+    top: 550px;
     font-size: 1.7rem;
     font-weight: 300;
     left: 0;
