@@ -143,9 +143,11 @@ hr{
 
 
 .middle-container{
-    background-image: linear-gradient(to bottom, #000000, #0d0509, #130b14, #16101c, #131625, #131625, #131625, #131625, #16101c, #130b14, #0d0509, #000000);
-    position: relative;
-    margin: 100px 0;
+    background-image: radial-gradient(circle, #000000, #121212, #1e1e1e, #2a2a2a, #363636);
+    border-radius: 7%;
+    width: 98%;
+    margin: auto;
+    padding: 100px 0;
 }
 
 .mid-para{
